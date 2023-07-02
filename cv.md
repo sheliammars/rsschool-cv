@@ -14,6 +14,8 @@ There is no work experience in IT, while there is a strong desire to learn, gain
 ##### CSS
 ## **Code Example**
 ## **Experience**
+CV, [rsschool-cv](https://github.com/sheliammars/rsschool-cv)
 ## **Education**
 PolesSU in Belarus, Master studies, Economics and finance
-
+## **English**
+A2
